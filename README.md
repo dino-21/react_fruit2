@@ -1,2 +1,1 @@
-react - fruit1 build
-빌드한 코드
+react - fruit1 build하기전 코드 + fruit2 build포함
